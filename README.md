@@ -1,3 +1,3 @@
-# Practice - Web scrapping
+# Naver Shopping Scrapping
 
 Web Scrapping is so much fun!
