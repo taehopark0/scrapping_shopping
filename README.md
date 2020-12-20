@@ -1,3 +1,4 @@
 # Practice - Web scrapping
 
-Web Scrapping is so much fun!
+Scrapping product information on Naver Scrapping
+- menstrual goods
